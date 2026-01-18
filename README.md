@@ -88,52 +88,14 @@ Proyek ini dibangun menggunakan **Python** sebagai bahasa utama, dengan dukungan
 
 ## Team Members
 
-<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-
-  <div align="center" style="width: 220px;">
-    <img src="https://github.com/UngiiiKiat.png" width="100" height="100" style="border-radius: 50%;" />
-    <h3>Rangga Irwanto Putra Kiat</h3>
-    <p><b>Role:</b> Data Analyst</p>
-    <a href="https://github.com/UngiiiKiat">GitHub</a> • 
-    <a href="www.linkedin.com/in/rangga-kiat">LinkedIn</a>
-  </div>
-
-  <div align="center" style="width: 220px;">
-    <img src="https://github.com/username2.png" width="100" height="100" style="border-radius: 50%;" />
-    <h3>Muhammad Afza Nur Hakim</h3>
-    <p><b>Role:</b> Data Scientist</p>
-    <a href="https://github.com/username2">GitHub</a> • 
-    <a href="https://linkedin.com/in/linkedin2">LinkedIn</a>
-  </div>
-
-  <div align="center" style="width: 220px;">
-    <img src="https://github.com/Ghulaaaam.png" width="100" height="100" style="border-radius: 50%;" />
-    <h3>Achmad Ghulam Habib Al-widani</h3>
-    <p><b>Role:</b> Data Scientist</p>
-    <a href="https://github.com/username3">GitHub</a> • 
-    <a href="https://linkedin.com/in/linkedin3">LinkedIn</a>
-  </div>
-
-  <div align="center" style="width: 220px;">
-    <img src="https://github.com/goetzel11.png" width="100" height="100" style="border-radius: 50%;" />
-    <h3> Muhammad Aldzahabi Mawarid</h3>
-    <p><b>Role:</b> Data Engineering</p>
-    <a href="https://github.com/username3">GitHub</a> • 
-    <a href="https://linkedin.com/in/linkedin3">LinkedIn</a>
-  </div>
-
-</div>
-
-## 👥 Team Members
-
 <table align="center">
   <tr>
     <td align="center" width="220">
-      <img src="https://github.com/USERNAME1.png" width="110" height="110" style="border-radius: 50%;" />
+      <img src="https://github.com/UngiiiKiat.png" width="110" height="110" style="border-radius: 50%;" />
       <h3>Rangga Irwanto Putra Kiat</h3>
       <p><b>Role:</b> Data Analyst</p>
-      <a href="https://github.com/USERNAME1">GitHub</a> • 
-      <a href="https://www.linkedin.com/in/LINKEDIN1/">LinkedIn</a>
+      <a href="https://github.com/UngiiiKiat">GitHub</a> • 
+      <a href="www.linkedin.com/in/rangga-kiat">LinkedIn</a>
     </td>
 
    <td align="center" width="220">
@@ -145,18 +107,18 @@ Proyek ini dibangun menggunakan **Python** sebagai bahasa utama, dengan dukungan
     </td>
 
    <td align="center" width="220">
-      <img src="https://github.com/USERNAME3.png" width="110" height="110" style="border-radius: 50%;" />
+      <img src="https://github.com/Ghulaaaam.png" width="110" height="110" style="border-radius: 50%;" />
       <h3>Achmad Ghulam Habib Al-widani</h3>
       <p><b>Role:</b> Data Scientist</p>
-      <a href="https://github.com/USERNAME3">GitHub</a> • 
+      <a href="https://github.com/Ghulaaaam">GitHub</a> • 
       <a href="https://www.linkedin.com/in/LINKEDIN3/">LinkedIn</a>
     </td>
 
    <td align="center" width="220">
-      <img src="https://github.com/USERNAME4.png" width="110" height="110" style="border-radius: 50%;" />
+      <img src="https://github.com/goetzel11.png" width="110" height="110" style="border-radius: 50%;" />
       <h3>Muhammad Aldzahabi Mawarid</h3>
       <p><b>Role:</b> Data Engineering</p>
-      <a href="https://github.com/USERNAME4">GitHub</a> • 
+      <a href="https://github.com/goetzel11">GitHub</a> • 
       <a href="https://www.linkedin.com/in/LINKEDIN4/">LinkedIn</a>
     </td>
   </tr>
