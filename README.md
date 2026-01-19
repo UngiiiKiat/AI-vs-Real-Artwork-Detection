@@ -111,7 +111,7 @@ Proyek ini dibangun menggunakan **Python** sebagai bahasa utama, dengan dukungan
       <h3>Achmad Ghulam Habib Al-widani</h3>
       <p><b>Role:</b> Data Scientist</p>
       <a href="https://github.com/Ghulaaaam">GitHub</a> • 
-      <a href="https://www.linkedin.com/in/achmadghulam/">LinkedIn</a>
+      <a href="https://www.linkedin.com/in/achmad-ghulam-479b56255/">LinkedIn</a>
     </td>
 
    <td align="center" width="220">
